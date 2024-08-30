@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "Eco-Friendly Water Bottle",
+      "category": "Personal Care",
+      "carbonFootprint": "50g CO2",
+      "material": "Recycled Plastic",
+      "recyclingInfo": "Recyclable at most centers",
+      "sustainabilityRating": 4.5,
+      "imageUrl": "https://images.unsplash.com/photo-1599052385804-6f4360f658e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNzUyOXwwfDF8c2VhcmNofDh8fGVjb19mcmllZCUyMGJvdHRsZXxlbnwwfHx8fDE2NjY4NzUzNjk&ixlib=rb-1.2.1&q=80&w=400",
+      "description": "A reusable water bottle made from recycled plastic, designed to reduce plastic waste.",
+      "price": "$15.99",
+      "brand": "EcoLife"
+    },
+    {
+      "id": "2",
+      "name": "Organic Cotton T-Shirt",
+      "category": "Clothing",
+      "carbonFootprint": "100g CO2",
+      "material": "Organic Cotton",
+      "recyclingInfo": "Recyclable through textile recycling programs",
+      "sustainabilityRating": 4.8,
+      "imageUrl": "https://images.unsplash.com/photo-1593642532400-8f09a3a1e3b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNzUyOXwwfDF8c2VhcmNofDl8fG9yZ2FuaWMlMjBjb3R0b24lMjB0c2hpcnQlfGVufDB8fHx8MTY2NjY4NzQxNA&ixlib=rb-1.2.1&q=80&w=400",
+      "description": "A soft, organic cotton t-shirt that minimizes environmental impact during production.",
+      "price": "$22.50",
+      "brand": "GreenThreads"
+    },
+    {
+      "id": "3",
+      "name": "Bamboo Toothbrush",
+      "category": "Personal Care",
+      "carbonFootprint": "30g CO2",
+      "material": "Bamboo",
+      "recyclingInfo": "Compostable handle, recyclable bristles",
+      "sustainabilityRating": 4.7,
+      "imageUrl": "https://images.unsplash.com/photo-1617787555567-5b5a6e5c7a29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNzUyOXwwfDF8c2VhcmNofDN8fGJhbmJvb3xlbnwwfHx8fDE2NjY4NzQ0Mzc&ixlib=rb-1.2.1&q=80&w=400",
+      "description": "A sustainable toothbrush with a bamboo handle and recyclable bristles.",
+      "price": "$5.99",
+      "brand": "EcoBrush"
+    },
+    {
+      "id": "4",
+      "name": "Solar-Powered Charger",
+      "category": "Electronics",
+      "carbonFootprint": "200g CO2",
+      "material": "Plastic, Solar Panels",
+      "recyclingInfo": "Recyclable at e-waste centers",
+      "sustainabilityRating": 4.3,
+      "imageUrl": "https://images.unsplash.com/photo-1544146712-e1f00aa2a38f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNzUyOXwwfDF8c2VhcmNofDJ8fHNvbGFyLXBvd2VyZWQlMjBjaGFyZ2VyfGVufDB8fHx8MTY2NjY4NzQ0Mzc&ixlib=rb-1.2.1&q=80&w=400",
+      "description": "A portable charger powered by solar energy, ideal for outdoor use.",
+      "price": "$29.99",
+      "brand": "SunCharge"
+    },
+    {
+      "id": "5",
+      "name": "Eco-Friendly Laundry Detergent",
+      "category": "Household",
+      "carbonFootprint": "150g CO2",
+      "material": "Plant-Based Ingredients",
+      "recyclingInfo": "Recyclable bottle, compostable ingredients",
+      "sustainabilityRating": 4.6,
+      "imageUrl": "https://images.unsplash.com/photo-1595406225591-d76a8038b927?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNzUyOXwwfDF8c2VhcmNofDJ8fGVjb19sYXVuZHJ5X2RldGVyZ2VudHx8ZW58MHx8fDE2NjY4NzQ0Mzc&ixlib=rb-1.2.1&q=80&w=400",
+      "description": "A plant-based laundry detergent that is effective and environmentally friendly.",
+      "price": "$12.99",
+      "brand": "EcoClean"
+    }
+  ]
+}
